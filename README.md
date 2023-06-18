@@ -2,11 +2,12 @@
 
 A theme and extension for [Hacker News](http://news.ycombinator.com) that improves the look and feel and adds some interesting features.
 
-![Screenshot](/promo/screenshot1.png)
+This is a fork from https://github.com/gabrielecirulli/hn-special that slightly tweaks the light theme and makes it possible to upload on Firefox Add-ons store, at the cost of some features.
+
+![Screenshot](/promo/screenshot3.png)
 
 The available features can be enabled or disabled based on your personal preference. New feature contributions are welcome!
 
-You can install this extension [from the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia).
 
 ## Features
 
@@ -22,11 +23,11 @@ You can install this extension [from the Chrome Web Store](https://chrome.google
 
 ### Chrome
 
-Go ahead and install HN Special [from the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia).
+Install the original one [from the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-special-an-addition-to/cchaceegbflphbdpfocjalgjhjoahiia), or manually build and load this one.
 
 ### Firefox
 
-For now, download the .xpi from the Releases section.
+Install from [Firefox add-ons store](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-special/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ## Contributing
 
