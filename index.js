@@ -55,11 +55,9 @@ pageMod.PageMod({
     notDataUrl("lib/modules/gray_visited_links.js"),
     notDataUrl("lib/modules/open_links_in_new_tabs.js"),
     notDataUrl("lib/modules/highlight_links_when_returning.js"),
-    notDataUrl("lib/modules/infinite_scrolling.js"),
     notDataUrl("lib/modules/accurate_domain_names.js"),
     notDataUrl("lib/modules/mark_as_read.js"),
     notDataUrl("lib/modules/sticky_header.js"),
-    notDataUrl("lib/modules/user_tooltips.js")
   ],
   contentScriptOptions: {
     urlBase: notDataUrl(""),

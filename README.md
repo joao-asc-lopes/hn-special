@@ -11,13 +11,11 @@ You can install this extension [from the Chrome Web Store](https://chrome.google
 ## Features
 
 - A modern looking visual theme
-- Infinite scrolling
 - Open links in new tab
 - More accurate domain names
 - Mark as read (thanks to [@taeram](https://twitter.com/taeram/))
 - Sticky header (thanks to [@obeattie](https://twitter.com/obeattie))
 - Grey visited links (thanks to [@bjenik](https://twitter.com/bjenik))
-- User information tooltips (thanks to sebmck)
 - Firefox support (thanks to [PxlBuzzard](https://github.com/PxlBuzzard) and [ColdenCullen](https://github.com/ColdenCullen))
 
 ## Installing
